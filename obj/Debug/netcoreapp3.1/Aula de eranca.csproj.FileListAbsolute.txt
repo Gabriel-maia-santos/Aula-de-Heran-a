@@ -1,0 +1,13 @@
+C:\Users\xbsbu\Desktop\Projetos - Senai\Aula de eranca\obj\Debug\netcoreapp3.1\Aula de eranca.csprojAssemblyReference.cache
+C:\Users\xbsbu\Desktop\Projetos - Senai\Aula de eranca\obj\Debug\netcoreapp3.1\Aula de eranca.csproj.CoreCompileInputs.cache
+C:\Users\xbsbu\Desktop\Projetos - Senai\Aula de eranca\obj\Debug\netcoreapp3.1\Aula de eranca.AssemblyInfoInputs.cache
+C:\Users\xbsbu\Desktop\Projetos - Senai\Aula de eranca\obj\Debug\netcoreapp3.1\Aula de eranca.AssemblyInfo.cs
+C:\Users\xbsbu\Desktop\Projetos - Senai\Aula de eranca\bin\Debug\netcoreapp3.1\Aula de eranca.exe
+C:\Users\xbsbu\Desktop\Projetos - Senai\Aula de eranca\bin\Debug\netcoreapp3.1\Aula de eranca.deps.json
+C:\Users\xbsbu\Desktop\Projetos - Senai\Aula de eranca\bin\Debug\netcoreapp3.1\Aula de eranca.runtimeconfig.json
+C:\Users\xbsbu\Desktop\Projetos - Senai\Aula de eranca\bin\Debug\netcoreapp3.1\Aula de eranca.runtimeconfig.dev.json
+C:\Users\xbsbu\Desktop\Projetos - Senai\Aula de eranca\bin\Debug\netcoreapp3.1\Aula de eranca.dll
+C:\Users\xbsbu\Desktop\Projetos - Senai\Aula de eranca\bin\Debug\netcoreapp3.1\Aula de eranca.pdb
+C:\Users\xbsbu\Desktop\Projetos - Senai\Aula de eranca\obj\Debug\netcoreapp3.1\Aula de eranca.dll
+C:\Users\xbsbu\Desktop\Projetos - Senai\Aula de eranca\obj\Debug\netcoreapp3.1\Aula de eranca.pdb
+C:\Users\xbsbu\Desktop\Projetos - Senai\Aula de eranca\obj\Debug\netcoreapp3.1\Aula de eranca.genruntimeconfig.cache
